@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zubair Atha</h1>
-<h3 align="center">A passionate statistics enthusisast and a machine learning developer</h3>
+<h3 align="center">A passionate statistics enthusiast and a machine learning developer</h3>
 
 - 🌱 I’m currently learning **Django**
 
