@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zubair Atha</h1>
 <h3 align="center">A passionate statistics enthusiast and a machine learning developer</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **PySpark**
 
 - 📫 How to reach me **zubair.atha09@gmail.com**
 
@@ -16,4 +16,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zubairatha&show_icons=true&locale=en" alt="zubairatha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zubairatha&" alt="zubairatha" /></p>
