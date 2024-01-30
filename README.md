@@ -13,5 +13,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zubairatha&show_icons=true&locale=en&layout=compact" alt="zubairatha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zubairatha&show_icons=true&locale=en" alt="zubairatha" /></p>
-
