@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zubair Atha</h1>
 <h3 align="center">A statistics enthusiast and a machine learning developer</h3>
 
-- 🌱 I’m currently learning **PySpark**
+- 🌱 I’m currently exploring **Forecasting models**
 
 - 📫 How to reach me **zubair.atha09@gmail.com**
 
