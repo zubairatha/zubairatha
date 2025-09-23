@@ -1,6 +1,6 @@
 # Hi, I’m Zubair Atha 
 
-🎓 MS Data Science @ Columbia University (2024–2025)  
+🎓 MS Data Science @ Columbia University
 🔬 Data Science Intern @ Ford  
 📊 Machine Learning Engineer / Data Scientist with focus on **RAG systems, Generative AI, and Statistical Modeling**  
 
