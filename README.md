@@ -1,43 +1,50 @@
-# Hi, I’m Zubair Atha 
+# Hi, I’m Zubair Atha
+
+🔬 Data Scientist @ Ford Motor Company  
+🎓 MS Data Science — Columbia University  
+🛠️ AI/ML & Software Systems Engineer focused on **production AI systems, agentic AI, ML infrastructure, and distributed data**
 
 
-🎓 MS Data Science @ Columbia University  
-🔬 Data Science Intern @ Ford  
-📊 Machine Learning Engineer with focus on **RAG systems, Generative AI, and Statistical Modeling**   
+## 🔍 Currently Exploring
+
+How **GEPA-style self-improving systems, retrieval, agentic workflows, and distributed AI infrastructure** can be engineered reliably at production scale.
 
 
-## 🔍 Currently Exploring  
-How advancements in **retrieval systems** can drive progress in **RAG**, **multi-agent AI systems**, and **scalable ML pipelines**.  
+## 💼 Experience
 
-## 💼 Experience  
+- **Data Scientist** — Ford Motor Company  
+  *Production AI Systems, ML Infrastructure & Connected Vehicle Engineering*
 
 - **Data Science Intern** — Ford Motor Company  
-  *AI Agents for Root Cause Analysis & Log Analytics*  
+  *Agentic AI for Root Cause Analysis & Vehicle Log Analytics*
 
 - **Graduate Researcher** — Columbia University Irving Medical Center  
-  *Decoding Brain Behavior with Machine Learning*  
+  *Decoding Brain Behavior with Machine Learning*
 
 - **Teaching Assistant** — Columbia Business School  
-  *Python, Databases, and Data Analysis for MBAs*  
+  *Python, Databases, and Data Analysis for MBAs*
 
 - **Machine Learning Engineer Intern** — 56 Secure  
-  *End-to-End Computer Vision Systems for Enterprise AI Security*  
+  *End-to-End Computer Vision Systems for Enterprise AI Security*
 
 - **Undergraduate Researcher** — Vellore Institute of Technology  
-  *Semi-Supervised Learning for Brain Tumor Classification (IEEE Publication)*  
+  *Semi-Supervised Learning for Brain Tumor Classification (IEEE Publication)*
 
 - **Data Scientist Intern** — Cyient  
-  *Computer Vision Systems for Geospatial & Document Data*  
+  *Computer Vision Systems for Geospatial & Document Data*
 
 
+## 🛠 Skills & Tools
 
-## 🛠 Skills & Tools  
 **Languages:** Python, SQL, R, C++, JavaScript  
-**Frameworks:** TensorFlow, PyTorch, Scikit-Learn, LangChain, OpenCV, Pandas  
-**Cloud & Infra:** AWS, GCP, Azure, Docker, Spark, MongoDB  
+**ML & AI:** PyTorch, TensorFlow, Scikit-Learn, Hugging Face, LangGraph, LangChain, RAG, Agentic AI, OpenCV  
+**Backend & Data:** FastAPI, REST APIs, PostgreSQL, BigQuery, DuckDB, MongoDB, Redis  
+**Retrieval:** Qdrant, FAISS, Vector Search, Hybrid Search  
+**Cloud & Infra:** GCP, AWS, Azure, Docker, Kubernetes, Airflow, Spark  
+**MLOps & Engineering:** MLflow, CI/CD, Git, Model Evaluation, Observability, Distributed Systems
 
 
-## 📫 Connect with Me  
-- Email: [za2366@columbia.edu](mailto:za2366@columbia.edu)  
-- LinkedIn: [Zubair Atha](https://www.linkedin.com/in/zubair-atha)  
-- GitHub: [zubairatha](https://github.com/zubairatha)  
+## 📫 Connect with Me
+
+- Email: [zubair.atha09@gmail.com](mailto:zubair.atha09@gmail.com)
+- LinkedIn: [Zubair Atha](https://www.linkedin.com/in/zubair-atha)
