@@ -2,7 +2,7 @@
 
 🔬 Data Scientist @ Ford Motor Company  
 🎓 MS Data Science — Columbia University  
-🛠️ AI/ML & Software Systems Engineer focused on **production AI systems, agentic AI, ML infrastructure, and distributed data pipelines**
+🛠️ AI/ML & Software Systems Engineer focused on **production AI systems, agentic AI, ML infrastructure, and distributed data**
 
 
 ## 🔍 Currently Exploring
