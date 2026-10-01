@@ -1,18 +1,21 @@
 # Hi, I’m Zubair Atha 
 
 
-🎓 MS Data Science @ Columbia University  
-🔬 Data Science Intern @ Ford  
-📊 Machine Learning Engineer with focus on **RAG systems, Generative AI, and Statistical Modeling**   
+🎓 MS Data Science — Columbia University  
+🚗 Data Scientist @ Ford Motor Company  
+🛠️ AI/ML & Software Systems Engineer focused on **production AI systems, agentic AI, ML infrastructure, and distributed data pipelines**  
 
 
 ## 🔍 Currently Exploring  
-How advancements in **retrieval systems** can drive progress in **RAG**, **multi-agent AI systems**, and **scalable ML pipelines**.  
+How **applied AI/ML systems, retrieval, distributed systems, and intelligent engineering workflows** can be built reliably at production scale.  
 
 ## 💼 Experience  
 
+- **Data Scientist** — Ford Motor Company  
+  *Production AI/ML Systems, Connected Vehicle Data & Engineering Workflows*  
+
 - **Data Science Intern** — Ford Motor Company  
-  *AI Agents for Root Cause Analysis & Log Analytics*  
+  *Agentic AI for Root Cause Analysis & Log Analytics*  
 
 - **Graduate Researcher** — Columbia University Irving Medical Center  
   *Decoding Brain Behavior with Machine Learning*  
@@ -33,8 +36,9 @@ How advancements in **retrieval systems** can drive progress in **RAG**, **multi
 
 ## 🛠 Skills & Tools  
 **Languages:** Python, SQL, R, C++, JavaScript  
-**Frameworks:** TensorFlow, PyTorch, Scikit-Learn, LangChain, OpenCV, Pandas  
-**Cloud & Infra:** AWS, GCP, Azure, Docker, Spark, MongoDB  
+**AI/ML:** PyTorch, TensorFlow, Scikit-Learn, LangGraph, LangChain, RAG, OpenCV  
+**Data & Retrieval:** PostgreSQL, BigQuery, DuckDB, Qdrant, FAISS, MongoDB  
+**Cloud & Infra:** GCP, AWS, Azure, Docker, FastAPI, Airflow, Spark  
 
 
 ## 📫 Connect with Me  
